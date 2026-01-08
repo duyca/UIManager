@@ -10,12 +10,12 @@
     "guid"
   ],
   "category": "editor extensions",
-  "homepage": "https://github.com/brunomikoski/windowsmanager",
+  "homepage": "https://github.com/duyca/windowsmanager",
   "repository": {
     "type": "git",
-    "url": "https://github.com/brunomikoski/windowsmanager.git"
+    "url": "https://github.com/duyca/windowsmanager.git"
   },
-  "bugs": "https://github.com/brunomikoski/windowsmanager/issues",
+  "bugs": "https://github.com/duyca/windowsmanager/issues",
   "author": {
     "name": "Bruno Mikoski",
     "url": "https://www.brunomikoski.com"

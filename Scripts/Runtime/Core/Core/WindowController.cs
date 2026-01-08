@@ -8,7 +8,7 @@ using UnityEngine.UI;
 namespace BrunoMikoski.UIManager
 {
     [DisallowMultipleComponent]
-    [RequireComponent(typeof(Canvas), typeof(CanvasGroup)), RequireComponent(typeof(GraphicRaycaster)]
+    [RequireComponent(typeof(Canvas), typeof(CanvasGroup), typeof(GraphicRaycaster))]
     public partial class WindowController : MonoBehaviour
     {
         [SerializeField]

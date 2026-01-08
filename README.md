@@ -57,12 +57,12 @@ openupm add com.brunomikoski.uimanager
 ### Manifest
 You can also install via git URL by adding this entry in your **manifest.json**
 ```
-"com.brunomikoski.uimanager": "https://github.com/brunomikoski/UIManager.git"
+"com.brunomikoski.uimanager": "https://github.com/duyca/UIManager.git"
 ```
 
 ### Unity Package Manager
 ```
-from Window->Package Manager, click on the + sign and Add from git: https://github.com/brunomikoski/UIManager.git
+from Window->Package Manager, click on the + sign and Add from git: https://github.com/duyca/UIManager.git
 ```
 
 ## License TL:DR
